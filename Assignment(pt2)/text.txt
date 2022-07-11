@@ -1,0 +1,6 @@
+Euro (EUR), 1.06, €
+South African Rand (ZAR), 17.96, R
+New Zealand Dollar (NZD), 1.8, NZ$
+, , NZ$
+New Zealand Dollar (NZD), , NZ$
+New Zealand Dollar (NZD), 1.8, 
